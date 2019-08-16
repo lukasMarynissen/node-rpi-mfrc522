@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnielsen1965/node-rpi-mfrc522.git"
+    "url": "git+https://github.com/lukasMarynissen/node-rpi-mfrc522.git"
   },
   "keywords": [
     "mfrc522",
@@ -22,6 +22,6 @@
   "license": "MIT",
   "dependencies": {
     "rpi-sysfs-io": "^1.0.0",
-    "spi-device": "^2.0.7"
+    "rpi-softspi": "^1.0.5"
   }
 }
